@@ -340,7 +340,7 @@ INSERT INTO public.planet VALUES (6, 3, 'P06', 4, 10, 15, 'Planet 06', true, fal
 INSERT INTO public.planet VALUES (7, 4, 'P07', 4, 10, 15, 'Planet 07', true, true);
 INSERT INTO public.planet VALUES (8, 4, 'P08', 4, 10, 15, 'Planet 08', true, false);
 INSERT INTO public.planet VALUES (9, 5, 'P09', 4, 10, 15, 'Planet 09', true, true);
-INSERT INTO public.planet VALUES (10, 5, 'P10', 4, 10, 15, 'Planeet 10', true, false);
+INSERT INTO public.planet VALUES (10, 5, 'P10', 4, 10, 15, 'Planet 10', true, false);
 INSERT INTO public.planet VALUES (11, 6, 'P11', 4, 10, 15, 'Planet 11', true, true);
 INSERT INTO public.planet VALUES (12, 6, 'P12', 4, 10, 15, 'Planet 12', true, false);
 
